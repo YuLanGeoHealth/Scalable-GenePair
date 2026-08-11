@@ -13,4 +13,4 @@ This repo stores code to reproduce the analysis in the manuscript, "Comparing su
 
 -sim_dc_results.R: Combine and summary results using case-control approaches from the simulation.
 
-Please refer to https://github.com/warrenjl/GenePair for GenePair codes on pairwise analysis on the subsampling dataset.
+Please refer to https://github.com/warrenjl/GenePair for GenePair codes on pairwise analysis on the subsampling dataset. The data used in this study contain confidential information and cannot be deposited in a public repository. Sequence data have been deposited in GenBank and are publicly available in the NCBI BioProject database (accession number PRJNA1311115). Aggregate-level demographic, clinical, and lineage data are provided in the appendix of our previous publication via https://www.thelancet.com/cms/10.1016/j.lanmic.2026.101369/attachment/46b2ca56-601f-48d8-9b47-a199e15a81a3/mmc1.pdf.
